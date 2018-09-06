@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "webpack-command": "^0.4.1"
+  }
+}
